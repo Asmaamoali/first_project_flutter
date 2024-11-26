@@ -173,7 +173,7 @@ class _PointCounterState extends State<PointCounter> {
                     addpointsA = 0;
                   });
                 },
-                child: Text(
+                child:Text(
                   'Reset',
                   style: TextStyle(color: Colors.black),
                 ),
